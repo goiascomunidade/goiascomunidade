@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**goiascomunidade/goiascomunidade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <h1 style="margin-bottom: 5px;">
+    🤖 Go.ias
+  </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Comunidade de Inteligência Artificial</h3>
+
+  <p style="max-width: 700px;">
+    Um ecossistema colaborativo dedicado ao desenvolvimento,
+    estudo e aplicação de Inteligência Artificial em Goiás e além.
+  </p>
+
+  <br/>
+
+  <p>
+    <b>Aprender</b> • 
+    <b>Construir</b> • 
+    <b>Pesquisar</b> • 
+    <b>Ensinar</b>
+  </p>
+
+</div>
+
+---
+
+## 🚀 Sobre a Comunidade
+
+A **Go.ias** é uma comunidade aberta para todos que desejam:
+
+- 🧠 Aprender Inteligência Artificial  
+- 🛠 Construir produtos e soluções  
+- 🔬 Desenvolver pesquisa aplicada  
+- 📚 Compartilhar conhecimento  
+- 🌱 Iniciar sua jornada em tecnologia  
+
+Aqui conectamos estudantes, desenvolvedores, pesquisadores e profissionais que acreditam no poder transformador da IA.
+
+---
+
+## 🧩 O que fazemos
+
+- 📖 Letramento em IA  
+- 🛠 Projetos práticos e colaborativos  
+- 💬 Discussões técnicas  
+- 🔍 Pesquisa e inovação  
+- 🌍 Contribuições open-source  
+
+---
+
+## 🐺 Nosso Espírito
+
+Inspirados no **lobo-guará**, símbolo do Cerrado goiano:  
+estratégico, resiliente e independente.
+
+Acreditamos em fortalecer talentos locais para gerar impacto global.
+
+---
+
+<div align="center">
+
+### 🐺 Junte-se à Alcateia
+
+Construindo o futuro da Inteligência Artificial — juntos.
+
+</div>
