@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
   <h1 style="margin-bottom: 5px;">
