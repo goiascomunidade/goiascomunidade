@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1 style="margin-bottom: 5px;">
-    🤖 Go.ias
+    GoIAs
   </h1>
 
   <h3>Comunidade de Inteligência Artificial</h3>
@@ -45,7 +45,6 @@ Aqui conectamos estudantes, desenvolvedores, pesquisadores e profissionais que a
 - 📖 Letramento em IA  
 - 🛠 Projetos práticos e colaborativos  
 - 💬 Discussões técnicas  
-- 🔍 Pesquisa e inovação  
 - 🌍 Contribuições open-source  
 
 ---
@@ -63,6 +62,6 @@ Acreditamos em fortalecer talentos locais para gerar impacto global.
 
 ### 🐺 Junte-se à Alcateia
 
-Construindo o futuro da Inteligência Artificial — juntos.
+Construindo o futuro da Inteligência Artificial juntos.
 
 </div>
